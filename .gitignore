@@ -2,8 +2,7 @@
 /downloads
 .env
 vision-telegram-bot/
-__pycache__
+/__pycache__
 api_experiment.ipynb
-google_vision_api_basic_ocr_usage.py
 retail-assistant-bot.py
 google_vision_api_basic_ocr_usage.py
