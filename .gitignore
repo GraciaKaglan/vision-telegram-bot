@@ -3,7 +3,10 @@
 .env
 vision-telegram-bot/
 __pycache__
+pytesseract-gpt4.py
 google_vision_ai.py
 api_experiment.ipynb
 retail-assistant-bot.py
 google_vision_api_basic_ocr_usage.py
+google_vision_gpt4.py
+index.html
