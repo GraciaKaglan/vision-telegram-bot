@@ -1,6 +1,5 @@
 /credentials
 /downloads
-.env
 vision-telegram-bot/
 __pycache__
 pytesseract-gpt4.py
