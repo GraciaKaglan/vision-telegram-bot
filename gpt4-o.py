@@ -105,7 +105,6 @@ def process_image_with_gpt4(file_path: str) -> str:
 
     response_message_content = response.choices[0].message.content
     response_data = json.loads(response_message_content)
-    print(response_data)
     product_name = response_data["product_name"]['value']
     expiry_date = response_data["expiry_date"]['value']
 
