@@ -1,0 +1,12 @@
+parsing:
+  regex_patterns:
+    barcode: none
+    expiry_date: none
+    gtin-14: none
+    label_number: none
+    lot_number: none
+    product_name: none
+    quantity: none
+supplier:
+  logo_path: logo/logo-relay.png
+  name: relay
